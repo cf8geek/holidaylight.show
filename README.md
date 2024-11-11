@@ -1,7 +1,9 @@
-# Hello all!
-This is the new website, as some had issues with the Google Drive link.
+### Hello all!
+This is the new website, as some had issues with the Google Drive link.  
+If you prefer that, it is still available (and has more information) [here](https://r.ageek.us/2IASDzq).  
+Some people have reported it works if you _don't_ open with the Google Drive app on your phone, instead using your web browser.
 
-## Information:
+### Information:
 More information will be published later.
 
 ## Current status:

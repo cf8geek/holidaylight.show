@@ -1,4 +1,26 @@
 ---
 ---
-body { font-family: Verdana; }
+body {
+  box-sizing: border-box;
+  color:#373737;
+  background: #212121;
+  font-size: 16px;
+  font-family: Verdana;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 10px 0;
+  font-weight: 700;
+  color:#222222;
+  font-family: Verdana;
+  letter-spacing: -1px;
+}
+th {
+  font-family: Verdana;
+  padding: 10px;
+  background: #373737;
+  color: #fff;
+ }
+
 @import "{{ site.theme }}";

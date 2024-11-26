@@ -15,8 +15,8 @@ As always, you can [contact me](https://r.ageek.us/mnbWuX) if you have questions
 
 ### Setlist:
 1. Little Drummber Boy
-2. First Snow
-3. To be announced...
+1. First Snow
+1. To be announced...
 
 #### Reminder:
 The link "holidaylight.show" should always work, even if the site moves again or similar. Note that it does *not* have the WWW in front, however the page you are viewing now does.

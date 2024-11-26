@@ -14,7 +14,7 @@ Maintenance finished "enough". Sequencing starting soon.
 As always, you can [contact me](https://r.ageek.us/mnbWuX) if you have questions, concerns, etc.
 
 ### Setlist:
-1. Little Drummber Boy
+1. Little Drummer Boy
 1. First Snow
 1. To be announced...
 

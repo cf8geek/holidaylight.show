@@ -18,5 +18,9 @@ As always, you can [contact me](https://r.ageek.us/mnbWuX) if you have questions
 1. First Snow
 1. To be announced...
 
+### Song previews:
+- from [Christmas 2022](https://r.ageek.us/YouTube-Christmas2022take1).
+- form [2024](https://r.ageek.us/YouTube-20241126).
+
 #### Reminder:
 The link "holidaylight.show" should always work, even if the site moves again or similar. Note that it does *not* have the WWW in front, however the page you are viewing now does.

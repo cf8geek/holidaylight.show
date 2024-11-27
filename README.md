@@ -7,7 +7,7 @@ Some people have reported it works if you _don't_ open with the Google Drive app
 More information will be published later.
 
 # Current status:
-Maintenance finished "enough". Sequencing starting soon.  
+Maintenance finished "enough". Sequencing in progress (~17% complete).  
 **Estimated "ready" time:** mid-December.  
 **Check back:** early December for updates!
 

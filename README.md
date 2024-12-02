@@ -7,16 +7,16 @@ Some people have reported it works if you _don't_ open with the Google Drive app
 More information will be published later.
 
 # Current status:
-Maintenance finished "enough". Sequencing in progress (~20% complete).  
-**Estimated "ready" time:** mid-December.  
-**Check back:** early December for updates!
+Maintenance finished "enough". Sequencing in progress (~80% complete).  
+**Estimated "ready" time:** December 7.  
+**Check back:** later this week for updates!
 
 As always, you can [contact me](https://r.ageek.us/mnbWuX) if you have questions, concerns, etc.
 
 ### Setlist:
 1. Little Drummer Boy
 1. First Snow
-1. To be announced...
+1. Wizards In Winter
 
 ### Song previews:
 - from [Christmas 2022](https://r.ageek.us/YouTube-Christmas2022take1).

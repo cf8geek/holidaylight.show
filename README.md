@@ -8,7 +8,7 @@ Plays on a loop per schedule, unless manually intervened with.
 - **Location:** 3920 8th Street, Des Moines, IA 50313
 - **Time of day:** 16:00-22:00 (4pm-10pm)
 - **Radio station:** 106.7 FM (only available when at the location during the listed timeframe)
-- **Dates available:** 2024-12-07 through 2025-01-10.
+- **Dates available:** 2024-12-08 through 2025-01-10.
 
 # Current status:
 Maintenance finished "enough". Sequencing complete! Working on some final programming/testing this week.  

@@ -11,9 +11,7 @@ Plays on a loop per schedule, unless manually intervened with.
 - **Dates available:** 2024-12-08 through 2025-01-10.
 
 # Current status:
-Maintenance finished "enough". Sequencing complete! Working on some final programming/testing this week.  
-**Estimated "ready" time:** December 7.  
-**Check back:** later this week for updates!
+Working/ready/active each night.
 
 As always, you can [contact me](https://r.ageek.us/mnbWuX) if you have questions, concerns, etc.
 

@@ -1,9 +1,5 @@
 ### Hello all!
 
-~~This is the new website, as some had issues with the Google Drive link.~~  
-~~If you prefer that, it is still available (and has more information) at [GoogleSheet.HolidayLight.Show](https://googlesheet.holidaylight.show).~~  
-~~Some people have reported it works if you _don't_ open with the Google Drive app on your phone, instead using your web browser.~~  
-
 As of the 2025 holiday season preparations, this is the *only* website for status information, schedule, etc. The Google Drive variant has been decommissioned.
 
 ### Information:

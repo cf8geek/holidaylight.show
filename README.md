@@ -4,7 +4,7 @@ As of the 2025 holiday season preparations, this is the *only* website for statu
 
 ### Information:
 
-Work has started - if you drive by, you may see blinky lights, but it is not ready yet. Two major components have been replaced, with at least one more major component needing to be prepared and replaced. Check back later (Mid-October 2025) for more information. I have pulled down a bad LED strip and need to get it replaced. I also need to program the new Halloween song for this year.  
+Work has started - if you drive by, you may see blinky lights, but it is not ready yet. One major component has been replaced, with at least one more major component needing to be prepared and replaced. Check back later (Mid-October 2025) for more information. I have pulled down a bad LED strip (one of the major components). I also need to program the new Halloween song for this year.  
 
 # Current status:
 

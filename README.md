@@ -15,7 +15,7 @@ As always, you can [contact me](https://r.ageek.us/mnbWuX) if you have questions
 
 ### Next holiday:
 
-Probably Halloween.
+Halloween!
 
 
 #### Reminder:

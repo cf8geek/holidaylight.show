@@ -4,11 +4,15 @@ As of the 2025 holiday season preparations, this is the *only* website for statu
 
 ### Information:
 
-Waiting on glue to dry! Check back later (Mid-October 2025) for more information. 
+Official launch on Friday, 2025-10-17.
+- Location: [3920 8th Street, Des Moines, IA 50313](https://www.google.com/maps/place/3920+8th+St,+Des+Moines,+IA+50313/)
+- Times: 17:00-21:30 (5:00 P.M. - 9:00 P.M.) everyday through 2025-10-31https://www.google.com/maps/place/3920+8th+St,+Des+Moines,+IA+50313/.
+- Radio: 106.7 FM
+- Website: [holidaylight.show](https://holidaylight.show/)
 
 # Current status:
 
-Preparing for the 2025 Q4 holiday season.
+Preparing for the 2025 Q4 holiday season. The Halloween playlist this year will be identical to the one last year. There may be a late addition; if so, this page will be updated accordingly.
 
 As always, you can [contact me](https://r.ageek.us/mnbWuX) if you have questions, concerns, etc.
 

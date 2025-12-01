@@ -4,7 +4,6 @@ As of the 2025 holiday season preparations, this is the *only* website for statu
 
 ### Information:
 
-Soft-launch running starting 2025-11-27...
 - Location: [3920 8th Street, Des Moines, IA 50313](https://www.google.com/maps/place/3920+8th+St,+Des+Moines,+IA+50313/)
 - Times: 17:00-21:30 (5:00 P.M. - 9:30 P.M.) everyday through 2026-01-05.
 - Radio: 106.7 FM
@@ -12,12 +11,18 @@ Soft-launch running starting 2025-11-27...
 
 # Current status:
 
-Christmas playlist has 4 total items, with an overall runtime of approximately 14 minutes. Official start date is planned for 2025-12-01.
+Operational! Christmas playlist has 4 total items, with an overall runtime of approximately 14 minutes.  
 
 As always, you can [contact me](https://r.ageek.us/mnbWuX) if you have questions, concerns, etc.
 
+# Previews:
 
-### Next holiday:
+- from [Christmas 2022](https://r.ageek.us/YouTube-Christmas2022take1).
+- from [2024](https://r.ageek.us/YouTube-20241126).
+- recorded this year, from [2023](https://www.youtube.com/watch?v=brXZ_fiSHSo), from [2025](https://youtu.be/DgAtWnb0l_Q).
+
+
+### Current holiday:
 
 Christmas!
 

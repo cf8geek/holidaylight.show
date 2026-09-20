@@ -4,6 +4,6 @@ This page provides information about the Holiday Light Show.
 
 ### Information:
 
-Done for the 2025 Q4 Holiday season! Check back around September 2026 for further updates.
+The 2026 Q4 Holiday season is being lightly planned out, but no further information is available at this time. (Last updated: 2026-09-19)
 
 You can [contact me](https://r.ageek.us/mnbWuX) if you have questions, concerns, etc.
